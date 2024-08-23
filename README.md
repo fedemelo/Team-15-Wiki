@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/b2f6cb81-081d-4c5f-85a2-5214eb0e0991)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9c35359-704d-4514-87fa-d315b5577fb0" />
+</p>
 
 # Team-15-Wiki
 This repository is the central knowledge base for Team 15, containing all documentation and deliverables related to the class within its [Wiki](https://github.com/fedemelo/Team-15-Wiki/wiki).
