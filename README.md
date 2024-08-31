@@ -11,7 +11,7 @@ See also: [Why did we choose a repo instead of an organization?](https://github.
 All documentation and deliverables related to the class can be found on the [Wiki](https://github.com/fedemelo/Team-15-Wiki/wiki).
 
 This repository also serves as a way to easily access the development repository for each subteam:
-1. [Team 15 - Swifties (Swift)](https://github.com/fedemelo/team-15-swifties)
-2. [Team 15 - 404 Name Not Found (Flutter)](https://github.com/fedemelo/Team-15-404NameNotFound)
+1. [Team 15 - Swifties](https://github.com/fedemelo/team-15-swifties) (Swift)
+2. [Team 15 - 404 Name Not Found](https://github.com/fedemelo/Team-15-404NameNotFound) (Flutter)
 
 Additionally, we use a [Kanban board](https://github.com/users/fedemelo/projects/5) to track the progress of all team activities, including deliverables and the development of the Swift and Flutter applications.
