@@ -5,8 +5,8 @@
 # Team-15-Wiki
 This is the central repository for **Team 15: UniTrade**.
 
-This repository was created for the Mobile Application Development class for the 2024-20 semester.
-See also: [Why did we choose a repo instead of an organization?](https://github.com/fedemelo/Team-15-Wiki/wiki/Why-Did-We-Choose-a-Repository-Instead-of-an-Organization%3F).
+This repository was created for the Mobile Application Development class for the 2024-20 semester.<br/>
+See also: [Why did we choose a repo instead of an organization?](https://github.com/fedemelo/Team-15-Wiki/wiki/Why-Did-We-Choose-a-Repository-Instead-of-an-Organization%3F)
 
 All documentation and deliverables related to the class can be found on the [Wiki](https://github.com/fedemelo/Team-15-Wiki/wiki).
 
