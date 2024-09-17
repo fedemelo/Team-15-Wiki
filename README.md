@@ -9,7 +9,7 @@ Quick links:
 1. Documentation and deliverables can be found on the **[Wiki](https://github.com/fedemelo/Team-15-Wiki/wiki)**.
 2. Repo for Swift development: [Team 15 - Swifties](https://github.com/fedemelo/team-15-swifties).
 3. Repo for Flutter development: [Team 15 - 404 Name Not Found](https://github.com/fedemelo/Team-15-404NameNotFound).
-4. Repo for backend and analytics: [Team 15 - Analytics](https://github.com/fedemelo/Team-15-Analytics).
+4. Repo for backend and analytics: [Team 15 - Backend and Analytics](https://github.com/fedemelo/Team-15-Backend-And-Analytics)
 5. The product backlog can be found in the [Kanban board](https://github.com/users/fedemelo/projects/5), which applies for all repos.
 
 See also: 
