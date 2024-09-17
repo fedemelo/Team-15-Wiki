@@ -3,18 +3,17 @@
 </p>
 
 # Team-15-Wiki
-This is the central repository for **Team 15: UniTrade**.
+Central repository for **Team 15: UniTrade**.
 
-All documentation and deliverables related to the class can be found on the **[Wiki](https://github.com/fedemelo/Team-15-Wiki/wiki)**.
-
-This repository also serves as a way to easily access the development repository for each subteam:
-1. [Team 15 - Swifties](https://github.com/fedemelo/team-15-swifties) (Swift)
-2. [Team 15 - 404 Name Not Found](https://github.com/fedemelo/Team-15-404NameNotFound) (Flutter)
-
-Additionally, we use a [Kanban board](https://github.com/users/fedemelo/projects/5) to track the progress of all team activities, including deliverables and the development of the Swift and Flutter applications.
+Quick links:
+1. Documentation and deliverables can be found on the **[Wiki](https://github.com/fedemelo/Team-15-Wiki/wiki)**.
+2. Repo for Swift development: [Team 15 - Swifties](https://github.com/fedemelo/team-15-swifties).
+3. Repo for Flutter development: [Team 15 - 404 Name Not Found](https://github.com/fedemelo/Team-15-404NameNotFound).
+4. Repo for backend and analytics: [Team 15 - Analytics](https://github.com/fedemelo/Team-15-Analytics).
+5. The product backlog can be found in the [Kanban board](https://github.com/users/fedemelo/projects/5), which applies for all repos.
 
 See also: 
-- [Why did we choose a repo instead of an organization?](https://github.com/fedemelo/Team-15-Wiki/wiki/Why-Did-We-Choose-a-Repository-Instead-of-an-Organization%3F)
-- [Contribution Guide](https://github.com/fedemelo/Team-15-Wiki/wiki/Contribution-Guide)
+- [Why did we choose a repo instead of an organization?](https://github.com/fedemelo/Team-15-Wiki/wiki/Why-Did-We-Choose-a-Repository-Instead-of-an-Organization%3F).
+- [Contribution Guide](https://github.com/fedemelo/Team-15-Wiki/wiki/Contribution-Guide).
 
 This repository was created for the Mobile Application Development class for the 2024-20 semester.<br/>
